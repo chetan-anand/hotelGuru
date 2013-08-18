@@ -1,0 +1,31 @@
+The details of HOW TO RUN--
+
+1)Set the password of the root user of the mysql database to "hotel".
+2)Mysql port: 3306
+
+3)Run the software,
+In the first run,The database and tables get created and the software exits. 
+A superuser is made,
+with username="root" and password="root" security question="Who am i?" Ans="root"
+
+4)Please import the csv files in the database saved in the "Tables" folder.
+We have created basic sturcture of hotel in our CSV files.You may import it the database 
+or you could make ur CSV files depending on your HOTEL rooms structure.
+we have given this flexibilty so that it can be run in any hotel.
+
+"rooms" table is essential to be imported, rest u may add from the GUI interface too.
+Other tables are optional to check the functionality of software and reduce your work of creating many users, class of rooms, discounts, guest and their details,etc etc.
+
+So hence we provided all csv files, though functionality to add as you wish is also there.
+
+  
+5)Now, the actual software can be run by clicking the same executable.
+login with the root user or the one you created on the first run.
+you may also login with any user in the tables created by CSV files. 
+
+Please see User manual for the details and explanations with screen views.
+
+
+For any query or problem in running, please contact
+Sanketh Mopuru-09492522860
+Chetan Anand-09957614245

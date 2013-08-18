@@ -1,0 +1,70 @@
+﻿Build started 3/11/2013 10:28:49 PM.
+     1>Project "D:\hotel\hotel\hotel.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\hotel.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\hotel.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\MySQL\Connector NET 6.6.5\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt InstallForm.cpp hotel.cpp /clr:nostdlib 
+         InstallForm.cpp
+     1>d:\hotel\hotel\InstallForm.h(35): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(44): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(53): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(62): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(71): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(80): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(89): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(98): warning C4101: 'e' : unreferenced local variable
+         hotel.cpp
+     1>d:\hotel\hotel\billing.h(533): warning C4101: 'counter' : unreferenced local variable
+     1>d:\hotel\hotel\roombook.h(392): warning C4101: 'idroom' : unreferenced local variable
+     1>d:\hotel\hotel\roombook.h(394): warning C4101: 'size' : unreferenced local variable
+     1>d:\hotel\hotel\roombook.h(393): warning C4101: 'roomno' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(35): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(44): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(53): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(62): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(71): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(80): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(89): warning C4101: 'e' : unreferenced local variable
+     1>d:\hotel\hotel\InstallForm.h(98): warning C4101: 'e' : unreferenced local variable
+     1>hotel.cpp(36): warning C4101: 'e' : unreferenced local variable
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hotel\Debug\hotel.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\hotel.addRec.resources /ASSEMBLYRESOURCE:Debug\hotel.adminPanel.resources /ASSEMBLYRESOURCE:Debug\hotel.billing.resources /ASSEMBLYRESOURCE:Debug\hotel.changePassword.resources /ASSEMBLYRESOURCE:Debug\hotel.checkOutForm.resources /ASSEMBLYRESOURCE:Debug\hotel.editRoom.resources /ASSEMBLYRESOURCE:Debug\hotel.forget_it.resources /ASSEMBLYRESOURCE:Debug\hotel.Form1.resources /ASSEMBLYRESOURCE:Debug\hotel.Guest_book.resources /ASSEMBLYRESOURCE:Debug\hotel.h_guest.resources /ASSEMBLYRESOURCE:Debug\hotel.importTables.resources /ASSEMBLYRESOURCE:Debug\hotel.InstallForm.resources /ASSEMBLYRESOURCE:Debug\hotel.roombook.resources /ASSEMBLYRESOURCE:Debug\hotel.superPanel.resources /ASSEMBLYRESOURCE:Debug\hotel.Tour.resources /ASSEMBLYRESOURCE:Debug\hotel.userClass.resources /MANIFEST /ManifestFile:"Debug\hotel.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\hotel\Debug\hotel.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\addRec.obj
+         Debug\adminPanel.obj
+         Debug\AssemblyInfo.obj
+         Debug\billing.obj
+         Debug\changePassword.obj
+         Debug\checkOutForm.obj
+         Debug\editRoom.obj
+         Debug\forget_it.obj
+         Debug\Guest_book.obj
+         Debug\hotel.obj
+         Debug\h_guest.obj
+         Debug\importTables.obj
+         Debug\InstallForm.obj
+         Debug\roombook.obj
+         Debug\stdafx.obj
+         Debug\superPanel.obj
+         Debug\Tour.obj
+         Debug\userClass.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         hotel.vcxproj -> D:\hotel\Debug\hotel.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\hotel\Debug\hotel.exe;#1" /manifest Debug\hotel.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\hotel.unsuccessfulbuild".
+         Touching "Debug\hotel.lastbuildstate".
+     1>Done Building Project "D:\hotel\hotel\hotel.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.34

@@ -1,0 +1,9 @@
+idguests,name,contact,idproof,company,city,email,address,class,amountpaid
+1,hitesh,8011232440,122,iitg,guwahati,hites@iitg.ernet.in,manas,1,4000
+2,chetan,9985654566,118,iitg,assam,anand@ya.com,kapili,1,0
+3,sanketh,4565456,156,iitb,guwa,mopuru@fb.com,barak,NULL,1000
+4,vishal,565665,186,mit,delhi,anad@ds.com,dihing,NULL,0
+5,kartik,990198266,856,google,california,k@gmail.com,dihing,NULL,8000
+6,harsha,99985623,232,fb,us,hh@fb.com,umiam,NULL,5000
+7,"hitesh arora",9990198244,H56,stanford,gurgaon,hunny@yo.com,manas,NULL,10000
+8,"chetan anand",9963256456,4545,steel,gurgaon,ana@hk.com,dihing,NULL,0

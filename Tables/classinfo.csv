@@ -1,0 +1,10 @@
+idclassinfo,type,cost,description
+1,1,1000," standard single"
+2,2,2000,"deluxe single"
+3,3,3000,"executive single"
+4,4,6000,"standard double"
+5,5,5000,"deluxe double"
+6,6,8000,"executive double"
+7,7,10000,"superior deluxe"
+8,8,12000,"superior double"
+9,9,15000,ashiana
